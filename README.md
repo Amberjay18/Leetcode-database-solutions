@@ -1,2 +1,2 @@
 # Leetcode-database-solutions
-Using not only one solution to solve leetcode database problems.
+Using more than one solution to solve LeetCode database problems.
